@@ -3,6 +3,22 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Typst                    20 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  20 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Resume                   20 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    20 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -16,5 +32,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2026 19:18:22 UTC
+ Last Updated on 03/03/2026 19:19:15 UTC
 <!--END_SECTION:waka-->

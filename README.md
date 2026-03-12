@@ -3,6 +3,24 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Haskell                  1 hr 8 mins         █████████████████████████   98.30 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Cabal Config             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+otus-proto               1 hr 9 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -16,5 +34,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2026 19:20:09 UTC
+ Last Updated on 12/03/2026 19:20:14 UTC
 <!--END_SECTION:waka-->

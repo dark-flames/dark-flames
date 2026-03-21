@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C394%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C395%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,17 +7,18 @@
 
 ```text
 💬 Programming Languages: 
-Haskell                  19 mins             ███████████████░░░░░░░░░░   58.83 % 
-Typst                    13 mins             ██████████░░░░░░░░░░░░░░░   41.17 % 
+Haskell                  3 hrs 56 mins       ███████████████████████░░   93.28 % 
+Typst                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-proto               32 mins             █████████████████████████   100.00 % 
+otus-proto               4 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.00 % 
+Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -33,5 +34,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 19:17:46 UTC
+ Last Updated on 21/03/2026 19:09:39 UTC
 <!--END_SECTION:waka-->

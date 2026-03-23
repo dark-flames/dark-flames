@@ -7,18 +7,19 @@
 
 ```text
 💬 Programming Languages: 
-Haskell                  3 hrs 56 mins       ███████████████████████░░   93.28 % 
-Typst                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Haskell                  9 hrs               ████████████████████████░   96.75 % 
+Typst                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-proto               4 hrs 14 mins       █████████████████████████   100.00 % 
+otus-proto               9 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -34,5 +35,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2026 19:11:07 UTC
+ Last Updated on 23/03/2026 19:22:08 UTC
 <!--END_SECTION:waka-->

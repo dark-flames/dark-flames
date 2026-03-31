@@ -7,18 +7,23 @@
 
 ```text
 💬 Programming Languages: 
-Haskell                  9 hrs 49 mins       █████████████████████████   99.77 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Rust                     7 hrs 11 mins       ███████████████░░░░░░░░░░   59.72 % 
+Haskell                  4 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 Typst                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 51 mins       █████████████████████████   100.00 % 
+RustRover                7 hrs 16 mins       ███████████████░░░░░░░░░░   60.40 % 
+VS Code                  4 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.60 % 
 
 🐱‍💻 Projects: 
-otus-proto               9 hrs 51 mins       █████████████████████████   100.00 % 
+otus-dev                 7 hrs 16 mins       ███████████████░░░░░░░░░░   60.40 % 
+otus-proto               4 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.60 % 
 
 💻 Operating System: 
-Linux                    9 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 16 mins       ███████████████░░░░░░░░░░   60.40 % 
+Linux                    4 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.60 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -34,5 +39,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2026 19:25:55 UTC
+ Last Updated on 31/03/2026 19:26:11 UTC
 <!--END_SECTION:waka-->

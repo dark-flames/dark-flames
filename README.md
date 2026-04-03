@@ -7,23 +7,23 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     7 hrs 11 mins       ████████████████████░░░░░   81.62 % 
-Haskell                  1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Rust                     9 hrs 38 mins       █████████████████████░░░░   84.02 % 
+Haskell                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Typst                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RustRover                7 hrs 16 mins       █████████████████████░░░░   82.54 % 
-VS Code                  1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+RustRover                9 hrs 56 mins       ██████████████████████░░░   86.59 % 
+VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 
 🐱‍💻 Projects: 
-otus-dev                 7 hrs 16 mins       █████████████████████░░░░   82.54 % 
-otus-proto               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+otus-dev                 9 hrs 56 mins       ██████████████████████░░░   86.59 % 
+otus-proto               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 
 💻 Operating System: 
-Mac                      7 hrs 16 mins       █████████████████████░░░░   82.54 % 
-Linux                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Mac                      9 hrs 56 mins       ██████████████████████░░░   86.59 % 
+Linux                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -39,5 +39,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2026 19:23:49 UTC
+ Last Updated on 03/04/2026 19:18:13 UTC
 <!--END_SECTION:waka-->

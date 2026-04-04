@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C416%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C418%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -7,23 +7,23 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     9 hrs 38 mins       █████████████████████░░░░   84.02 % 
-Haskell                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Typst                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Rust                     9 hrs 38 mins       ████████████████████████░   97.00 % 
+TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Haskell                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RustRover                9 hrs 56 mins       ██████████████████████░░░   86.59 % 
-VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+RustRover                9 hrs 56 mins       █████████████████████████   99.96 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-otus-dev                 9 hrs 56 mins       ██████████████████████░░░   86.59 % 
-otus-proto               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+otus-dev                 9 hrs 56 mins       █████████████████████████   99.96 % 
+otus-proto               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      9 hrs 56 mins       ██████████████████████░░░   86.59 % 
-Linux                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Mac                      9 hrs 56 mins       █████████████████████████   99.96 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -39,5 +39,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026 19:18:13 UTC
+ Last Updated on 04/04/2026 19:14:42 UTC
 <!--END_SECTION:waka-->

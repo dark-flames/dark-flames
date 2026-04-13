@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C418%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C420%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,16 +7,22 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 11 mins        █████████████████████████   100.00 % 
+Rust                     12 hrs 45 mins      █████████████████████████   99.22 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  12 hrs 48 mins      █████████████████████████   99.70 % 
+RustRover                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-otus                     1 hr 11 mins        █████████████████████████   100.00 % 
+otus                     12 hrs 48 mins      █████████████████████████   99.70 % 
+otus-dev                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
+Linux                    12 hrs 48 mins      █████████████████████████   99.70 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -32,5 +38,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2026 19:18:41 UTC
+ Last Updated on 13/04/2026 19:31:57 UTC
 <!--END_SECTION:waka-->

@@ -3,28 +3,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust                     12 hrs 47 mins      █████████████████████████   99.22 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 51 mins      █████████████████████████   99.70 % 
-RustRover                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
-🐱‍💻 Projects: 
-otus                     12 hrs 51 mins      █████████████████████████   99.70 % 
-otus-dev                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
-💻 Operating System: 
-Linux                    12 hrs 51 mins      █████████████████████████   99.70 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -38,5 +16,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 19:31:41 UTC
+ Last Updated on 17/04/2026 19:27:34 UTC
 <!--END_SECTION:waka-->

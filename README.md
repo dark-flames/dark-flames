@@ -7,22 +7,20 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     15 hrs 23 mins      █████████████████████████   99.29 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Rust                     6 hrs 8 mins        █████████████████████████   99.90 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      ████████████████████████░   94.63 % 
-RustRover                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+RustRover                3 hrs 6 mins        █████████████░░░░░░░░░░░░   50.61 % 
+VS Code                  3 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.39 % 
 
 🐱‍💻 Projects: 
-otus                     11 hrs 40 mins      ███████████████████░░░░░░   75.33 % 
-otus-dev                 3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+otus-dev                 6 hrs 6 mins        █████████████████████████   99.27 % 
+otus                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Linux                    11 hrs 40 mins      ███████████████████░░░░░░   75.33 % 
-Mac                      3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Mac                      6 hrs 6 mins        █████████████████████████   99.27 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -38,5 +36,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2026 19:19:17 UTC
+ Last Updated on 20/04/2026 19:28:19 UTC
 <!--END_SECTION:waka-->

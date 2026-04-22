@@ -7,20 +7,18 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     6 hrs 8 mins        █████████████████████████   99.90 % 
+Rust                     6 hrs 5 mins        █████████████████████████   99.90 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-RustRover                3 hrs 6 mins        █████████████░░░░░░░░░░░░   50.61 % 
-VS Code                  3 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.39 % 
+RustRover                3 hrs 6 mins        █████████████░░░░░░░░░░░░   50.99 % 
+VS Code                  2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.01 % 
 
 🐱‍💻 Projects: 
-otus-dev                 6 hrs 6 mins        █████████████████████████   99.27 % 
-otus                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+otus-dev                 6 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 6 mins        █████████████████████████   99.27 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -36,5 +34,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2026 19:31:10 UTC
+ Last Updated on 22/04/2026 19:32:30 UTC
 <!--END_SECTION:waka-->

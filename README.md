@@ -7,18 +7,22 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 39 mins       █████████████████████████   100.00 % 
+Rust                     2 hrs 23 mins       ████████████████████████░   95.58 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RustRover                2 hrs 18 mins       ██████████████████████░░░   87.33 % 
-VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+RustRover                2 hrs 18 mins       ███████████████████████░░   92.71 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🐱‍💻 Projects: 
-otus-dev                 2 hrs 39 mins       █████████████████████████   100.00 % 
+otus-dev                 2 hrs 26 mins       ████████████████████████░   97.52 % 
+otus                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 26 mins       ████████████████████████░   97.98 % 
+Linux                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -34,5 +38,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2026 19:20:17 UTC
+ Last Updated on 26/04/2026 19:21:11 UTC
 <!--END_SECTION:waka-->

@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C438%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C438%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,36 +7,39 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 23 mins       ████████████████████████░   95.58 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Rust                     3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.10 % 
+JSON                     2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-RustRover                2 hrs 18 mins       ███████████████████████░░   92.71 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+VS Code                  9 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 2 hrs 26 mins       ████████████████████████░   97.52 % 
-otus                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+otus-dev                 4 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.75 % 
+gear-stick               2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
+chat-vscode-users-darkfla44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+test                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+session-vibe-coding-vscod22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 💻 Operating System: 
-Mac                      2 hrs 26 mins       ████████████████████████░   97.98 % 
-Linux                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Mac                      9 hrs               █████████████████████████   98.34 % 
+Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Haskell                  3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Agda                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Rust                     11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Haskell                  3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Agda                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 26/04/2026 19:21:11 UTC
+ Last Updated on 27/04/2026 19:34:32 UTC
 <!--END_SECTION:waka-->

@@ -7,25 +7,25 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
-JSON                     2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Rust                     3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.92 % 
+JSON                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 4 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.78 % 
-gear-stick               2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
-chat-vscode-users-darkfla44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-test                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-session-vibe-coding-vscod22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+otus-dev                 4 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+gear-stick               2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+chat-vscode-users-darkfla44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+test                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+session-vibe-coding-vscod22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   98.34 % 
-Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Mac                      8 hrs 57 mins       █████████████████████████   99.60 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -41,5 +41,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2026 19:25:20 UTC
+ Last Updated on 03/05/2026 19:25:26 UTC
 <!--END_SECTION:waka-->

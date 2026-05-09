@@ -7,16 +7,20 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Typst                    39 mins             ████████████████████░░░░░   80.39 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dark-flames.com          48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -32,5 +36,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2026 19:33:58 UTC
+ Last Updated on 09/05/2026 19:27:23 UTC
 <!--END_SECTION:waka-->

@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C447%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C448%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,20 +7,21 @@
 
 ```text
 💬 Programming Languages: 
-Typst                    39 mins             ████████████████████░░░░░   80.39 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Rust                     3 hrs 51 mins       █████████████████████░░░░   82.54 % 
+Typst                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dark-flames.com          48 mins             █████████████████████████   100.00 % 
+otus-dev                 3 hrs 52 mins       █████████████████████░░░░   82.66 % 
+dark-flames.com          48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -36,5 +37,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2026 19:27:23 UTC
+ Last Updated on 10/05/2026 19:27:44 UTC
 <!--END_SECTION:waka-->

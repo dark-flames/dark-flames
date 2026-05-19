@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C456%20hrs%2013%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -20,15 +22,15 @@ Mac                      2 hrs 16 mins       ███████████�
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
-Haskell                  3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Agda                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Rust                     12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Haskell                  3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Agda                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 19:35:24 UTC
+ Last Updated on 19/05/2026 19:36:41 UTC
 <!--END_SECTION:waka-->

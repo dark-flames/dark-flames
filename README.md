@@ -1,27 +1,25 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C457%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      38 mins             █████████░░░░░░░░░░░░░░░░   35.48 % 
-Rust                     32 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Pawn                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Rust                     55 mins             ██████████░░░░░░░░░░░░░░░   38.22 % 
+C++                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Pawn                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-julia                    1 hr 16 mins        ██████████████████░░░░░░░   70.06 % 
-otus-dev                 32 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+julia                    1 hr 30 mins        ███████████████░░░░░░░░░░   61.70 % 
+otus-dev                 56 mins             ██████████░░░░░░░░░░░░░░░   38.30 % 
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -37,5 +35,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 19:36:20 UTC
+ Last Updated on 22/05/2026 19:34:54 UTC
 <!--END_SECTION:waka-->

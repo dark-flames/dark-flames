@@ -1,27 +1,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust                     55 mins             ██████████░░░░░░░░░░░░░░░   38.22 % 
-C++                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Pawn                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-julia                    1 hr 30 mins        ███████████████░░░░░░░░░░   61.70 % 
-otus-dev                 56 mins             ██████████░░░░░░░░░░░░░░░   38.30 % 
-
-💻 Operating System: 
-Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -35,5 +14,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 19:34:54 UTC
+ Last Updated on 23/05/2026 19:30:18 UTC
 <!--END_SECTION:waka-->

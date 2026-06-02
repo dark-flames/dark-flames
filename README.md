@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C481%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C483%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,22 +7,26 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    8 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
-YAML                     4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Python                   3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-TOML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Markdown                 5 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
+YAML                     4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Python                   2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+C                        1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 11 mins      ██████████████████████░░░   89.94 % 
-Unknown Editor           2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+VS Code                  11 hrs 7 mins       ████████████████░░░░░░░░░   63.26 % 
+Claude Code              4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Unknown Editor           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🐱‍💻 Projects: 
-package-loading-ci       23 hrs 26 mins      █████████████████████████   99.55 % 
-TyPlot.jl                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+package-loading-ci       12 hrs              █████████████████░░░░░░░░   68.31 % 
+julia                    4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Work                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+TyPlot.jl                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+otus-dev                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      23 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -38,5 +42,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2026 20:29:28 UTC
+ Last Updated on 02/06/2026 20:04:03 UTC
 <!--END_SECTION:waka-->

@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C488%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C490%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,25 +7,23 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.81 % 
-YAML                     2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-C                        1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Bash                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Markdown                 3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.82 % 
+Julia                    2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+C                        1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+C++                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 48 mins       ██████████████░░░░░░░░░░░   56.91 % 
-Claude Code              5 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.30 % 
-Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Claude Code              5 hrs 3 mins        ███████████████░░░░░░░░░░   58.37 % 
+VS Code                  3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.63 % 
 
 🐱‍💻 Projects: 
-package-loading-ci       5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
-julia                    4 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
-Work                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-otus-dev                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+julia                    7 hrs 1 min         ████████████████████░░░░░   81.03 % 
+Work                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+otus-dev                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-Mac                      11 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -41,5 +39,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2026 19:44:02 UTC
+ Last Updated on 05/06/2026 19:36:47 UTC
 <!--END_SECTION:waka-->

@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C490%20hrs%2044%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -39,5 +37,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:32:58 UTC
+ Last Updated on 07/06/2026 19:33:16 UTC
 <!--END_SECTION:waka-->

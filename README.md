@@ -1,30 +1,30 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C495%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C495%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     4 hrs 9 mins        ██████████████████░░░░░░░   70.11 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Julia                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Rust                     4 hrs 9 mins        █████████████████░░░░░░░░   68.12 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Julia                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 4 hrs 32 mins       ███████████████████░░░░░░   76.50 % 
-lalrpop                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-package-loading-ci       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-ty-julia-docker          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+otus-dev                 4 hrs 32 mins       ███████████████████░░░░░░   74.33 % 
+lalrpop                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+package-loading-ci       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+julia                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+ty-julia-docker          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 💻 Operating System: 
-Mac                      5 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -40,5 +40,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 19:34:11 UTC
+ Last Updated on 14/06/2026 19:34:08 UTC
 <!--END_SECTION:waka-->

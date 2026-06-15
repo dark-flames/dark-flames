@@ -7,24 +7,23 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     4 hrs 9 mins        █████████████████░░░░░░░░   68.12 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Julia                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Rust                     42 mins             ██████████████░░░░░░░░░░░   56.27 % 
+Julia                    15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Docker                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 4 hrs 32 mins       ███████████████████░░░░░░   74.33 % 
-lalrpop                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-package-loading-ci       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-julia                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-ty-julia-docker          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+otus-dev                 42 mins             ██████████████░░░░░░░░░░░   56.31 % 
+package-loading-ci       15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+julia                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+ty-julia-docker          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 
 💻 Operating System: 
-Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -40,5 +39,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2026 19:34:08 UTC
+ Last Updated on 15/06/2026 20:11:25 UTC
 <!--END_SECTION:waka-->

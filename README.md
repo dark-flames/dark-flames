@@ -7,21 +7,18 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     29 mins             ██████████████████░░░░░░░   73.19 % 
-JSON                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Docker                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Rust                     29 mins             █████████████████████████   99.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 29 mins             ██████████████████░░░░░░░   73.19 % 
-julia                    10 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-ty-julia-docker          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+otus-dev                 29 mins             █████████████████████████   99.04 % 
+julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -37,5 +34,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2026 19:33:56 UTC
+ Last Updated on 21/06/2026 19:34:13 UTC
 <!--END_SECTION:waka-->

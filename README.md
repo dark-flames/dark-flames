@@ -7,18 +7,19 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     29 mins             █████████████████████████   99.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Rust                     52 mins             █████████████████████░░░░   83.65 % 
+TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 29 mins             █████████████████████████   99.04 % 
-julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+otus-dev                 1 hr 2 mins         █████████████████████████   99.55 % 
+julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -34,5 +35,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2026 19:34:13 UTC
+ Last Updated on 22/06/2026 20:03:47 UTC
 <!--END_SECTION:waka-->

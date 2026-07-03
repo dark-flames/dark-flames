@@ -7,23 +7,23 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.01 % 
-Julia                    1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-C++                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Julia                    1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   39.19 % 
+Rust                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+C++                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 17 mins       ███████████████████░░░░░░   76.99 % 
-Claude Code              1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+VS Code                  3 hrs 13 mins       █████████████████░░░░░░░░   67.16 % 
+Claude Code              1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   32.84 % 
 
 🐱‍💻 Projects: 
-otus-dev                 4 hrs 44 mins       █████████████████░░░░░░░░   69.04 % 
-julia                    1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-TyOptimCore.jl           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+otus-dev                 2 hrs 41 mins       ██████████████░░░░░░░░░░░   55.82 % 
+julia                    1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   41.26 % 
+TyOptimCore.jl           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -39,5 +39,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2026 19:32:03 UTC
+ Last Updated on 03/07/2026 19:32:00 UTC
 <!--END_SECTION:waka-->

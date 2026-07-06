@@ -7,23 +7,21 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   39.19 % 
-Rust                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-C++                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Markdown                 57 mins             ███████████████░░░░░░░░░░   59.42 % 
+Julia                    29 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████░░░░░░░░   67.16 % 
-Claude Code              1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   32.84 % 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 2 hrs 41 mins       ██████████████░░░░░░░░░░░   55.82 % 
-julia                    1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   41.26 % 
-TyOptimCore.jl           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+otus-dev                 1 hr 3 mins         █████████████████░░░░░░░░   66.06 % 
+julia                    24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+TyOptimCore.jl           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 💻 Operating System: 
-Mac                      4 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -39,5 +37,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 19:31:25 UTC
+ Last Updated on 06/07/2026 19:34:43 UTC
 <!--END_SECTION:waka-->

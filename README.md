@@ -7,21 +7,24 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 57 mins             ███████████████░░░░░░░░░░   59.42 % 
-Julia                    29 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Markdown                 6 hrs 32 mins       ████████████████████████░   96.29 % 
+Julia                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 1 hr 3 mins         █████████████████░░░░░░░░   66.06 % 
-julia                    24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-TyOptimCore.jl           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+darkflames               3 hrs 55 mins       ██████████████░░░░░░░░░░░   57.87 % 
+slides                   2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+TyOptimCore.jl           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+julia                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+vpp-config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -37,5 +40,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 19:34:43 UTC
+ Last Updated on 07/07/2026 19:34:47 UTC
 <!--END_SECTION:waka-->

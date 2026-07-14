@@ -7,20 +7,18 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    3 hrs               █████████████████░░░░░░░░   68.53 % 
-Markdown                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Julia                    3 hrs 52 mins       ██████████████████████░░░   88.36 % 
 Docker                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
 VS Code                  4 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TyOptimCore.jl           2 hrs 54 mins       █████████████████░░░░░░░░   66.44 % 
-darkflames               50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-julia                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-vpp-config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TyOptimCore.jl           2 hrs 59 mins       █████████████████░░░░░░░░   68.17 % 
+julia                    1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.72 % 
+3a305abf5cfd119ee999dfe922 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
 Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
@@ -39,5 +37,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 19:31:29 UTC
+ Last Updated on 14/07/2026 19:31:59 UTC
 <!--END_SECTION:waka-->

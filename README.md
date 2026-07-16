@@ -7,21 +7,20 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    3 hrs 52 mins       ██████████████████████░░░   88.36 % 
-Docker                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Julia                    3 hrs               █████████████████████░░░░   85.50 % 
+Docker                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TyOptimCore.jl           2 hrs 59 mins       █████████████████░░░░░░░░   68.17 % 
-julia                    1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.72 % 
-3a305abf5cfd119ee999dfe922 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TyOptimCore.jl           2 hrs 59 mins       █████████████████████░░░░   84.96 % 
+julia                    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -37,5 +36,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 19:29:33 UTC
+ Last Updated on 16/07/2026 19:28:51 UTC
 <!--END_SECTION:waka-->

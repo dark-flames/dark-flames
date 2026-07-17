@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C512%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C518%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,20 +7,22 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    3 hrs               █████████████████████░░░░   85.50 % 
-Docker                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Rust                     4 hrs 51 mins       ██████████████░░░░░░░░░░░   56.62 % 
+Julia                    2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TyOptimCore.jl           2 hrs 59 mins       █████████████████████░░░░   84.96 % 
-julia                    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+otus-dev                 5 hrs 39 mins       ████████████████░░░░░░░░░   65.90 % 
+TyOptimCore.jl           2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
+https-x-com-zty0826-artic0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -36,5 +38,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 19:28:51 UTC
+ Last Updated on 17/07/2026 19:27:53 UTC
 <!--END_SECTION:waka-->

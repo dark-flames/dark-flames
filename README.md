@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C519%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C522%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,23 +7,24 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     8 hrs 39 mins       █████████████████████░░░░   82.44 % 
-TOML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-D                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Rust                     11 hrs 32 mins      █████████████████████░░░░   82.41 % 
+TOML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 10 hrs 23 mins      █████████████████████████   98.86 % 
-ni                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-2e860da2-729a-4a03-82db-42 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-https-x-com-zty0826-artic0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+otus-dev                 13 hrs 51 mins      █████████████████████████   98.98 % 
+ni                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+2e860da2-729a-4a03-82db-42 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+https-soteria-tools-com-b1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+https-x-com-zty0826-artic0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      10 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -39,5 +40,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 19:33:42 UTC
+ Last Updated on 21/07/2026 19:32:14 UTC
 <!--END_SECTION:waka-->

@@ -1,51 +1,45 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C578%20hrs%2054%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     6 hrs 34 mins       ███████████████████░░░░░░   75.16 % 
-TOML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Rust                     5 hrs 11 mins       ███████████████████░░░░░░   76.93 % 
+TOML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 8 hrs 43 mins       █████████████████████████   99.74 % 
-https-soteria-tools-com-b1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+otus-dev                 6 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 3 mins (92.07%)
+⏱ AI Coding Time: 6 hrs 40 mins (98.94%)
 
-✍️ 1,823 lines written by AI, 48 lines written by hand (97.43% AI-written)
+✍️ 1,815 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 138,119,887 Input Tokens, 725,877 Output Tokens
+🔤 127,418,814 Input Tokens, 627,672 Output Tokens
 
-💵 $694.80 Estimated AI Cost This Week
+💵 $642.10 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 88 AI Prompts
+🧠 10 AI Sessions, 76 AI Prompts
 
-GPT                      2,180 lines         █████████████████████████   100.00 % 
+GPT                      3,144 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.43% of written lines came from AI
-📄 Detailed Prompter — average 523 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 105 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -61,5 +55,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 19:32:13 UTC
+ Last Updated on 28/07/2026 19:33:10 UTC
 <!--END_SECTION:waka-->

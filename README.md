@@ -1,11 +1,15 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C580%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 11 mins       ███████████████████░░░░░░   76.93 % 
+Rust                     5 hrs 11 mins       ███████████████████░░░░░░   76.92 % 
 TOML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
@@ -23,7 +27,7 @@ Mac                      6 hrs 44 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 40 mins (98.94%)
+⏱ AI Coding Time: 6 hrs 40 mins (98.99%)
 
 ✍️ 1,815 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
@@ -55,5 +59,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 19:33:10 UTC
+ Last Updated on 29/07/2026 19:30:58 UTC
 <!--END_SECTION:waka-->

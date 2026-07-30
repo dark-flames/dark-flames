@@ -9,41 +9,42 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 11 mins       ███████████████████░░░░░░   76.92 % 
-TOML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Rust                     6 hrs 57 mins       ████████████████████░░░░░   79.87 % 
+TOML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 6 hrs 44 mins       █████████████████████████   100.00 % 
+otus-dev                 8 hrs 33 mins       █████████████████████████   98.32 % 
+ju                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 40 mins (98.99%)
+⏱ AI Coding Time: 8 hrs 30 mins (97.6%)
 
-✍️ 1,815 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 3,471 lines written by AI, 3 lines written by hand (99.91% AI-written)
 
-🔤 127,418,814 Input Tokens, 627,672 Output Tokens
+🔤 348,400,225 Input Tokens, 1,616,536 Output Tokens
 
-💵 $642.10 Estimated AI Cost This Week
+💵 $810.74 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 76 AI Prompts
+🧠 17 AI Sessions, 100 AI Prompts
 
-GPT                      3,144 lines         █████████████████████████   100.00 % 
+GPT                      4,775 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.91% of written lines came from AI
+📝 Concise Prompter — average 188 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -59,5 +60,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:30:58 UTC
+ Last Updated on 30/07/2026 19:32:07 UTC
 <!--END_SECTION:waka-->

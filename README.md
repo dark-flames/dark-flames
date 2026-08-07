@@ -1,55 +1,50 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C594%20hrs%2011%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2056%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     6 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.52 % 
-YAML                     4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Markdown                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-TOML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+YAML                     4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.84 % 
+Rust                     3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Markdown                 2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+TOML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-otus-dev                 14 hrs 16 mins      ████████████████████████░   97.63 % 
-referenced-chatgpt-conver11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-ju                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+otus-dev                 11 hrs 50 mins      █████████████████████████   98.33 % 
+referenced-chatgpt-conver11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      14 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 18 mins (90.97%)
+⏱ AI Coding Time: 10 hrs 51 mins (90.22%)
 
-✍️ 2,848 lines written by AI, 41 lines written by hand (98.58% AI-written)
+✍️ 1,115 lines written by AI, 39 lines written by hand (96.62% AI-written)
 
-🔤 361,762,127 Input Tokens, 1,625,589 Output Tokens
+🔤 121,738,731 Input Tokens, 534,776 Output Tokens
 
-💵 $802.88 Estimated AI Cost This Week
+💵 $532.78 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 225 AI Prompts
+🧠 14 AI Sessions, 198 AI Prompts
 
-GPT                      2,890 lines         ████████████████████████░   94.63 % 
-K                        164 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+GPT                      1,154 lines         ██████████████████████░░░   87.56 % 
+K                        164 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.58% of written lines came from AI
-📚 Verbose Prompter — average 3,942 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.43% of changed lines were hand-edited
+🤖 AI-Driven — 96.62% of written lines came from AI
+📚 Verbose Prompter — average 4,425 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 5.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -65,5 +60,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:26:06 UTC
+ Last Updated on 07/08/2026 00:39:53 UTC
 <!--END_SECTION:waka-->

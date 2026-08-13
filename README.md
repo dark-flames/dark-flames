@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C600%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,59 +9,61 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 2 mins        █████████████░░░░░░░░░░░░   53.23 % 
-Other                    2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-TOML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Typst                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Rust                     8 hrs 42 mins       ████████████████░░░░░░░░░   64.87 % 
+Other                    2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+TOML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Typst                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 47 mins       █████████████████████░░░░   82.28 % 
-Codex Vscode             1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+VS Code                  10 hrs 1 min        ███████████████████░░░░░░   74.69 % 
+Codex Vscode             3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
 
 🐱‍💻 Projects: 
-otus-dev                 6 hrs 12 mins       ████████████████░░░░░░░░░   65.57 % 
-po                       2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-otus-proto               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+otus-dev                 9 hrs 55 mins       ██████████████████░░░░░░░   73.86 % 
+po                       2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+otus-proto               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+new-chat                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+g-p-6a3ce515bcb08191b24180 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      9 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (75.27%)
+⏱ AI Coding Time: 10 hrs 25 mins (77.59%)
 
-✍️ 2,697 lines written by AI, 365 lines written by hand (88.08% AI-written)
+✍️ 3,723 lines written by AI, 505 lines written by hand (88.06% AI-written)
 
-🔤 52,476,578 Input Tokens, 413,209 Output Tokens
+🔤 54,263,327 Input Tokens, 650,485 Output Tokens
 
-💵 $282.16 Estimated AI Cost This Week
+💵 $310.87 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 103 AI Prompts
+🧠 13 AI Sessions, 139 AI Prompts
 
-GPT                      2,716 lines         █████████████████████████   100.00 % 
+GPT                      4,197 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.08% of written lines came from AI
-📚 Verbose Prompter — average 2,473 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 15.42% of changed lines were hand-edited
+🤖 AI-Driven — 88.06% of written lines came from AI
+📚 Verbose Prompter — average 4,463 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 15.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Rust                     11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
 Haskell                  3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 Agda                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 12/08/2026 20:00:01 UTC
+ Last Updated on 13/08/2026 19:55:04 UTC
 <!--END_SECTION:waka-->

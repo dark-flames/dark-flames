@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C604%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,47 +9,47 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     8 hrs 42 mins       ████████████████░░░░░░░░░   64.87 % 
-Other                    2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-TOML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Typst                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Rust                     4 hrs 17 mins       ██████████████░░░░░░░░░░░   54.41 % 
+Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Python                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Typst                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Haskell                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 1 min        ███████████████████░░░░░░   74.69 % 
-Codex Vscode             3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Codex Vscode             4 hrs 36 mins       ███████████████░░░░░░░░░░   58.29 % 
+VS Code                  3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.71 % 
 
 🐱‍💻 Projects: 
-otus-dev                 9 hrs 55 mins       ██████████████████░░░░░░░   73.86 % 
-po                       2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-otus-proto               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-new-chat                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-g-p-6a3ce515bcb08191b24180 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+otus-dev                 4 hrs 22 mins       ██████████████░░░░░░░░░░░   55.32 % 
+po                       1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+file-users-darkflames-dow1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+otus-proto               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+new-chat                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 25 mins (77.59%)
+⏱ AI Coding Time: 6 hrs 26 mins (81.52%)
 
-✍️ 3,723 lines written by AI, 505 lines written by hand (88.06% AI-written)
+✍️ 3,145 lines written by AI, 182 lines written by hand (94.53% AI-written)
 
-🔤 54,263,327 Input Tokens, 650,485 Output Tokens
+🔤 3,436,019 Input Tokens, 425,482 Output Tokens
 
-💵 $310.87 Estimated AI Cost This Week
+💵 $57.83 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 139 AI Prompts
+🧠 11 AI Sessions, 80 AI Prompts
 
-GPT                      4,197 lines         █████████████████████████   100.00 % 
+GPT                      3,600 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.06% of written lines came from AI
-📚 Verbose Prompter — average 4,463 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 15.87% of changed lines were hand-edited
+🤖 AI-Driven — 94.53% of written lines came from AI
+📚 Verbose Prompter — average 5,402 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 8.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -65,5 +65,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:55:04 UTC
+ Last Updated on 14/08/2026 19:48:11 UTC
 <!--END_SECTION:waka-->

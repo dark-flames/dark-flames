@@ -9,51 +9,52 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     7 hrs               █████████████████░░░░░░░░   69.68 % 
-Python                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Typst                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Rust                     9 hrs 43 mins       ███████████████████░░░░░░   77.94 % 
+Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       ██████████████░░░░░░░░░░░   55.64 % 
-Codex Vscode             4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.94 % 
-OMP                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+VS Code                  7 hrs 30 mins       ███████████████░░░░░░░░░░   60.19 % 
+Codex Vscode             4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
+OMP                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🐱‍💻 Projects: 
-otus-dev                 7 hrs 17 mins       ██████████████████░░░░░░░   72.47 % 
-file-users-darkflames-dow1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-otus-proto               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-new-chat                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-g-p-6a3ce515bcb08191b241811 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+otus-dev                 10 hrs 7 mins       ████████████████████░░░░░   81.08 % 
+file-users-darkflames-dow1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+g-p-6a3ce515bcb08191b241836 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+new-chat                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+qi                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 39 mins (76.12%)
+⏱ AI Coding Time: 8 hrs 30 mins (68.1%)
 
-✍️ 3,345 lines written by AI, 316 lines written by hand (91.37% AI-written)
+✍️ 1,335 lines written by AI, 622 lines written by hand (68.22% AI-written)
 
-🔤 4,927,354 Input Tokens, 535,906 Output Tokens
+🔤 5,243,193 Input Tokens, 569,268 Output Tokens
 
-💵 $72.30 Estimated AI Cost This Week
+💵 $71.52 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 104 AI Prompts
+🧠 53 AI Sessions, 124 AI Prompts
 
-GPT                      3,878 lines         █████████████████████████   100.00 % 
+GPT                      1,892 lines         █████████████████████████   100.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.37% of written lines came from AI
-📚 Verbose Prompter — average 6,529 characters per prompt
+🤖 AI-Driven — 68.22% of written lines came from AI
+📚 Verbose Prompter — average 7,060 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.05% of changed lines were hand-edited
+🚀 High AI Trust — 35.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -69,5 +70,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:27:07 UTC
+ Last Updated on 19/08/2026 19:24:49 UTC
 <!--END_SECTION:waka-->

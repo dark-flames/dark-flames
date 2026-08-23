@@ -9,51 +9,51 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     10 hrs 2 mins       ███████████████████████░░   90.74 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Rust                     15 hrs 10 mins      ███████████████████████░░   93.68 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 14 mins       ████████████████░░░░░░░░░   65.45 % 
-Codex Vscode             3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-OMP                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+VS Code                  10 hrs 51 mins      █████████████████░░░░░░░░   67.08 % 
+Codex Vscode             4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
+OMP                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🐱‍💻 Projects: 
-otus-dev                 10 hrs 21 mins      ███████████████████████░░   93.69 % 
-g-p-6a3ce515bcb08191b241835 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-qi                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-tmp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+otus-dev                 15 hrs 29 mins      ████████████████████████░   95.69 % 
+g-p-6a3ce515bcb08191b241835 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+qi                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+tmp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      11 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 18 mins (57.06%)
+⏱ AI Coding Time: 9 hrs 10 mins (56.69%)
 
-✍️ 2,231 lines written by AI, 631 lines written by hand (77.95% AI-written)
+✍️ 4,925 lines written by AI, 1,238 lines written by hand (79.91% AI-written)
 
-🔤 4,736,101 Input Tokens, 619,637 Output Tokens
+🔤 6,545,911 Input Tokens, 831,174 Output Tokens
 
-💵 $65.85 Estimated AI Cost This Week
+💵 $94.16 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 97 AI Prompts
+🧠 60 AI Sessions, 140 AI Prompts
 
-GPT                      2,515 lines         █████████████████████████   100.00 % 
+GPT                      5,269 lines         █████████████████████████   100.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.95% of written lines came from AI
-📚 Verbose Prompter — average 8,847 characters per prompt
+🤖 AI-Driven — 79.91% of written lines came from AI
+📚 Verbose Prompter — average 8,142 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 28.04% of changed lines were hand-edited
+🚀 High AI Trust — 27.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -69,5 +69,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 19:21:46 UTC
+ Last Updated on 23/08/2026 19:21:29 UTC
 <!--END_SECTION:waka-->

@@ -9,43 +9,48 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     12 hrs 16 mins      ███████████████████████░░   90.97 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Rust                     17 hrs 28 mins      █████████████████████░░░░   85.01 % 
+Julia                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 24 mins       ████████████████░░░░░░░░░   62.23 % 
-Codex Vscode             5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.77 % 
+VS Code                  13 hrs 27 mins      ████████████████░░░░░░░░░   65.44 % 
+Codex Vscode             7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
 
 🐱‍💻 Projects: 
-otus-dev                 12 hrs 23 mins      ███████████████████████░░   91.81 % 
-g-p-6a3ce515bcb08191b24181 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+otus-dev                 17 hrs 35 mins      █████████████████████░░░░   85.57 % 
+julia-vscode-1.66.2      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+g-p-6a3ce515bcb08191b24181 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+julia                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+referenced-chatgpt-conver3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      13 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 33 mins (55.96%)
+⏱ AI Coding Time: 12 hrs 23 mins (60.25%)
 
-✍️ 4,725 lines written by AI, 1,105 lines written by hand (81.05% AI-written)
+✍️ 4,922 lines written by AI, 1,485 lines written by hand (76.82% AI-written)
 
-🔤 4,632,185 Input Tokens, 713,887 Output Tokens
+🔤 6,670,958 Input Tokens, 1,016,337 Output Tokens
 
-💵 $75.46 Estimated AI Cost This Week
+💵 $100.48 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 127 AI Prompts
+🧠 32 AI Sessions, 190 AI Prompts
 
-GPT                      4,991 lines         █████████████████████████   100.00 % 
+GPT                      5,333 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.05% of written lines came from AI
-📚 Verbose Prompter — average 7,152 characters per prompt
+🤖 AI-Driven — 76.82% of written lines came from AI
+📚 Verbose Prompter — average 6,667 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 31.8% of changed lines were hand-edited
+🚀 High AI Trust — 34.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -61,5 +66,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:29:09 UTC
+ Last Updated on 25/08/2026 19:31:20 UTC
 <!--END_SECTION:waka-->

@@ -9,52 +9,52 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     15 hrs 43 mins      █████████████████░░░░░░░░   67.61 % 
-Julia                    5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Rust                     12 hrs 37 mins      ████████████████░░░░░░░░░   62.63 % 
+Julia                    5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 44 mins      ███████████████░░░░░░░░░░   59.09 % 
-Codex Vscode             8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.91 % 
-OMP                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+VS Code                  11 hrs 41 mins      ███████████████░░░░░░░░░░   58.01 % 
+Codex Vscode             7 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.06 % 
+OMP                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🐱‍💻 Projects: 
-otus-dev                 16 hrs 2 mins       █████████████████░░░░░░░░   68.98 % 
-julia-vscode-1.66.2      6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-julia                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-referenced-chatgpt-conver3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-referenced-chatgpt-conver1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+otus-dev                 12 hrs 56 mins      ████████████████░░░░░░░░░   64.21 % 
+julia-vscode-1.66.2      6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
+julia                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+referenced-chatgpt-conver3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+referenced-chatgpt-conver1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      23 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 21 mins (74.67%)
+⏱ AI Coding Time: 15 hrs 27 mins (76.7%)
 
-✍️ 6,623 lines written by AI, 1,294 lines written by hand (83.66% AI-written)
+✍️ 4,147 lines written by AI, 813 lines written by hand (83.61% AI-written)
 
-🔤 15,869,415 Input Tokens, 1,155,313 Output Tokens
+🔤 14,649,707 Input Tokens, 994,359 Output Tokens
 
-💵 $150.87 Estimated AI Cost This Week
+💵 $128.65 Estimated AI Cost This Week
 
-🧠 180 AI Sessions, 206 AI Prompts
+🧠 178 AI Sessions, 183 AI Prompts
 
-GPT                      7,737 lines         █████████████████████████   99.42 % 
-OMP                      45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+GPT                      5,220 lines         █████████████████████████   99.15 % 
+OMP                      45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.66% of written lines came from AI
-📚 Verbose Prompter — average 5,470 characters per prompt
+🤖 AI-Driven — 83.61% of written lines came from AI
+📚 Verbose Prompter — average 5,869 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 22.0% of changed lines were hand-edited
+🚀 High AI Trust — 20.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -70,5 +70,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:31:35 UTC
+ Last Updated on 30/08/2026 21:50:15 UTC
 <!--END_SECTION:waka-->

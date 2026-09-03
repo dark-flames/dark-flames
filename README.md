@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C644%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C647%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -9,52 +9,50 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     9 hrs 53 mins       █████████████████████░░░░   83.88 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Rust                     6 hrs 59 mins       ██████████████████░░░░░░░   73.76 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Julia                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.44 % 
-Codex Vscode             4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.86 % 
-OMP                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+VS Code                  4 hrs 53 mins       █████████████░░░░░░░░░░░░   51.56 % 
+Codex Vscode             4 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.17 % 
+OMP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-otus-dev                 10 hrs 24 mins      ██████████████████████░░░   88.24 % 
-julia-vscode-1.66.2      1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-lody-title-agent-duBOft  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-tmp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+otus-dev                 7 hrs 13 mins       ███████████████████░░░░░░   76.15 % 
+julia-vscode-1.66.2      2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+lody-title-agent-duBOft  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 lody-title-agent-sCjQnf  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 38 mins (81.81%)
+⏱ AI Coding Time: 7 hrs 30 mins (79.06%)
 
-✍️ 1,819 lines written by AI, 268 lines written by hand (87.16% AI-written)
+✍️ 1,591 lines written by AI, 203 lines written by hand (88.68% AI-written)
 
-🔤 13,318,361 Input Tokens, 450,528 Output Tokens
+🔤 8,740,094 Input Tokens, 353,801 Output Tokens
 
-💵 $97.04 Estimated AI Cost This Week
+💵 $74.93 Estimated AI Cost This Week
 
-🧠 172 AI Sessions, 140 AI Prompts
+🧠 79 AI Sessions, 111 AI Prompts
 
-GPT                      2,003 lines         ███████████████████████░░   92.52 % 
-OMP                      162 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+GPT                      1,609 lines         ███████████████████████░░   93.22 % 
+OMP                      117 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.16% of written lines came from AI
-📚 Verbose Prompter — average 7,277 characters per prompt
+🤖 AI-Driven — 88.68% of written lines came from AI
+📚 Verbose Prompter — average 7,283 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 21.27% of changed lines were hand-edited
+🚀 High AI Trust — 22.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -70,5 +68,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 21:36:43 UTC
+ Last Updated on 03/09/2026 21:34:36 UTC
 <!--END_SECTION:waka-->

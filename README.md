@@ -9,51 +9,51 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    7 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.25 % 
-Rust                     6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-INI                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Julia                    5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Rust                     3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Other                    2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+C                        1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+INI                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 4 mins       █████████████░░░░░░░░░░░░   51.09 % 
-Codex Vscode             10 hrs 35 mins      ████████████░░░░░░░░░░░░░   48.91 % 
+VS Code                  8 hrs 38 mins       █████████████░░░░░░░░░░░░   50.54 % 
+Codex Vscode             8 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.46 % 
 
 🐱‍💻 Projects: 
-julia                    8 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
-otus-dev                 8 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
-julia-vscode-1.66.2      4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+julia                    7 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.15 % 
+otus-dev                 5 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
+julia-vscode-1.66.2      4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Unknown Project          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 28 mins      ██████████████░░░░░░░░░░░   57.57 % 
-Linux                    9 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
+Mac                      9 hrs 20 mins       ██████████████░░░░░░░░░░░   54.66 % 
+Linux                    7 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 48 mins (86.81%)
+⏱ AI Coding Time: 14 hrs 45 mins (86.33%)
 
-✍️ 2,620 lines written by AI, 182 lines written by hand (93.5% AI-written)
+✍️ 1,819 lines written by AI, 85 lines written by hand (95.54% AI-written)
 
-🔤 13,285,712 Input Tokens, 940,196 Output Tokens
+🔤 9,736,961 Input Tokens, 824,305 Output Tokens
 
-💵 $242.91 Estimated AI Cost This Week
+💵 $220.65 Estimated AI Cost This Week
 
-🧠 87 AI Sessions, 614 AI Prompts
+🧠 53 AI Sessions, 674 AI Prompts
 
-GPT                      2,623 lines         ███████████████████████░░   93.58 % 
-OMP                      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-K                        38 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+GPT                      1,944 lines         ████████████████████████░   97.59 % 
+K                        38 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+OMP                      10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.5% of written lines came from AI
-📚 Verbose Prompter — average 8,610 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 7.22% of changed lines were hand-edited
+🤖 AI-Driven — 95.54% of written lines came from AI
+📚 Verbose Prompter — average 6,682 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 5.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -69,5 +69,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 21:15:25 UTC
+ Last Updated on 14/09/2026 22:17:02 UTC
 <!--END_SECTION:waka-->

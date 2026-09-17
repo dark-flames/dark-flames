@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C675%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C677%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -9,48 +9,48 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Julia                    3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Other                    3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-C                        3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+C                        4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Rust                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Other                    3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Julia                    3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Scheme                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 21 mins      ███████████████░░░░░░░░░░   59.65 % 
-Codex Vscode             7 hrs               ██████████░░░░░░░░░░░░░░░   40.35 % 
+VS Code                  9 hrs 54 mins       ███████████████░░░░░░░░░░   60.03 % 
+Codex Vscode             6 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
 
 🐱‍💻 Projects: 
-julia                    9 hrs 47 mins       ██████████████░░░░░░░░░░░   56.40 % 
-otus-dev                 5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-julia-vscode-1.66.2      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Unknown Project          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-wo                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+julia                    11 hrs 1 min        █████████████████░░░░░░░░   66.75 % 
+otus-dev                 4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+julia-vscode-1.66.2      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+wo                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Linux                    10 hrs 37 mins      ███████████████░░░░░░░░░░   61.13 % 
-Mac                      6 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
+Linux                    11 hrs 50 mins      ██████████████████░░░░░░░   71.73 % 
+Mac                      4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 3 mins (75.16%)
+⏱ AI Coding Time: 12 hrs 11 mins (73.86%)
 
-✍️ 586 lines written by AI, 431 lines written by hand (57.62% AI-written)
+✍️ 435 lines written by AI, 424 lines written by hand (50.64% AI-written)
 
-🔤 10,631,707 Input Tokens, 659,379 Output Tokens
+🔤 11,366,827 Input Tokens, 609,916 Output Tokens
 
-💵 $161.34 Estimated AI Cost This Week
+💵 $154.82 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 828 AI Prompts
+🧠 43 AI Sessions, 838 AI Prompts
 
-GPT                      612 lines           █████████████████████████   100.00 % 
+GPT                      439 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.62% of written lines came from AI
-📚 Verbose Prompter — average 13,804 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 49.67% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.64% of written lines came from AI
+📚 Verbose Prompter — average 13,777 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🔍 Hands-On Reviewer — 57.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -66,5 +66,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:55:10 UTC
+ Last Updated on 17/09/2026 21:56:02 UTC
 <!--END_SECTION:waka-->

@@ -9,48 +9,49 @@
 
 ```text
 💬 Programming Languages: 
-C                        6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Julia                    4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Markdown                 3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Rust                     3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Other                    2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Julia                    7 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+C                        5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Markdown                 4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Rust                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Other                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 42 mins      ████████████████░░░░░░░░░   63.67 % 
-Codex Vscode             10 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.33 % 
+VS Code                  20 hrs 36 mins      ████████████████░░░░░░░░░   63.69 % 
+Codex Vscode             11 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.31 % 
 
 🐱‍💻 Projects: 
-julia                    25 hrs 3 mins       █████████████████████░░░░   85.26 % 
-otus-dev                 3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Unknown Project          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-wo                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-g-p-6a3ce515bcb08191b24182 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+julia                    28 hrs 15 mins      ██████████████████████░░░   87.34 % 
+otus-dev                 3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+wo                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+SparseArrays.jl          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+g-p-6a3ce515bcb08191b24182 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    25 hrs 42 mins      ██████████████████████░░░   87.48 % 
-Mac                      3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Linux                    28 hrs 37 mins      ██████████████████████░░░   88.47 % 
+Mac                      3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 46 mins (87.71%)
+⏱ AI Coding Time: 28 hrs 24 mins (87.83%)
 
-✍️ 462 lines written by AI, 440 lines written by hand (51.22% AI-written)
+✍️ 464 lines written by AI, 815 lines written by hand (36.28% AI-written)
 
-🔤 40,062,468 Input Tokens, 1,518,430 Output Tokens
+🔤 43,842,078 Input Tokens, 1,590,742 Output Tokens
 
-💵 $364.61 Estimated AI Cost This Week
+💵 $367.40 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 2287 AI Prompts
+🧠 98 AI Sessions, 2358 AI Prompts
 
-GPT                      462 lines           █████████████████████████   100.00 % 
+GPT                      464 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.22% of written lines came from AI
-📚 Verbose Prompter — average 21,285 characters per prompt
+⚖️ Balanced with AI — 36.28% of written lines came from AI
+📚 Verbose Prompter — average 22,822 characters per prompt
 🔁 Iterative Prompter — average 24 prompts per session
-🔍 Hands-On Reviewer — 57.18% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 68.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -66,5 +67,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:11:14 UTC
+ Last Updated on 21/09/2026 22:27:44 UTC
 <!--END_SECTION:waka-->

@@ -9,52 +9,52 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    6 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.87 % 
-Other                    4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-Markdown                 3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Diff                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Rust                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other                    2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
+Markdown                 2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
+Julia                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+C                        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 57 mins      ██████████████████░░░░░░░   73.53 % 
-VS Code                  4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex Vscode             6 hrs               ██████████████████░░░░░░░   70.34 % 
+VS Code                  2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-julia                    12 hrs 25 mins      ███████████████████░░░░░░   76.42 % 
-otus-dev                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-SparseArrays.jl          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-otus-proto               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-vpp-config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+julia                    7 hrs 26 mins       ██████████████████████░░░   87.22 % 
+otus-dev                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+SparseArrays.jl          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+otus-proto               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+skills                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    12 hrs 25 mins      ███████████████████░░░░░░   76.43 % 
-Mac                      3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Linux                    7 hrs 26 mins       ██████████████████████░░░   87.24 % 
+Mac                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 31 mins (89.29%)
+⏱ AI Coding Time: 7 hrs 7 mins (83.44%)
 
-✍️ 975 lines written by AI, 711 lines written by hand (57.83% AI-written)
+✍️ 482 lines written by AI, 128 lines written by hand (79.02% AI-written)
 
-🔤 6,077,865 Input Tokens, 728,607 Output Tokens
+🔤 2,839,559 Input Tokens, 280,286 Output Tokens
 
-💵 $135.62 Estimated AI Cost This Week
+💵 $47.24 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 747 AI Prompts
+🧠 26 AI Sessions, 310 AI Prompts
 
-GPT                      1,025 lines         █████████████████████████   100.00 % 
+GPT                      518 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.83% of written lines came from AI
-📚 Verbose Prompter — average 8,343 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 60.46% of changed lines were hand-edited
+🤖 AI-Driven — 79.02% of written lines came from AI
+📚 Verbose Prompter — average 7,194 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 43.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -70,5 +70,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 20:00:45 UTC
+ Last Updated on 05/10/2026 19:12:45 UTC
 <!--END_SECTION:waka-->

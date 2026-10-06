@@ -9,52 +9,52 @@
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Markdown                 2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
-Julia                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-C                        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Markdown                 2 hrs 43 mins       ██████████████░░░░░░░░░░░   57.63 % 
+Rust                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Julia                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs               ██████████████████░░░░░░░   70.34 % 
-VS Code                  2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  2 hrs 34 mins       ██████████████░░░░░░░░░░░   54.36 % 
+Codex Vscode             2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.61 % 
+Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-julia                    7 hrs 26 mins       ██████████████████████░░░   87.22 % 
-otus-dev                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-SparseArrays.jl          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-otus-proto               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-skills                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+julia                    2 hrs 47 mins       ███████████████░░░░░░░░░░   58.87 % 
+otus-dev                 1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   39.75 % 
+SparseArrays.jl          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+otus-proto               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+skills                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Linux                    7 hrs 26 mins       ██████████████████████░░░   87.24 % 
-Mac                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Linux                    2 hrs 47 mins       ███████████████░░░░░░░░░░   58.91 % 
+Mac                      1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   41.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (83.44%)
+⏱ AI Coding Time: 2 hrs 52 mins (60.8%)
 
-✍️ 482 lines written by AI, 128 lines written by hand (79.02% AI-written)
+✍️ 482 lines written by AI, 418 lines written by hand (53.56% AI-written)
 
-🔤 2,839,559 Input Tokens, 280,286 Output Tokens
+🔤 1,205,148 Input Tokens, 106,611 Output Tokens
 
-💵 $47.24 Estimated AI Cost This Week
+💵 $21.79 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 310 AI Prompts
+🧠 18 AI Sessions, 118 AI Prompts
 
-GPT                      518 lines           █████████████████████████   100.00 % 
+GPT                      519 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.02% of written lines came from AI
-📚 Verbose Prompter — average 7,194 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 43.33% of changed lines were hand-edited
+⚖️ Balanced with AI — 53.56% of written lines came from AI
+📚 Verbose Prompter — average 5,508 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 54.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -70,5 +70,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 19:12:45 UTC
+ Last Updated on 06/10/2026 19:10:02 UTC
 <!--END_SECTION:waka-->

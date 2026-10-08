@@ -1,49 +1,56 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C732%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     56 mins             ████████████████████████░   94.41 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Other                    2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.77 % 
+Julia                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Markdown                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Rust                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+C++                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 
 🔥 Editors: 
-VS Code                  46 mins             ████████████████████░░░░░   78.46 % 
-Codex Vscode             12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Codex Vscode             5 hrs 24 mins       ███████████████████░░░░░░   74.95 % 
+VS Code                  1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 
 🐱‍💻 Projects: 
-otus-dev                 56 mins             ████████████████████████░   94.41 % 
-vpp-config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+julia                    2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+vpp-config               2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
+PrecompileProfiler.jl    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+otus-dev                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+otus-proto               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 49 mins       █████████████████░░░░░░░░   66.92 % 
+Linux                    2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (23.22%)
+⏱ AI Coding Time: 5 hrs 45 mins (79.78%)
 
-✍️ 0 lines written by AI, 291 lines written by hand (0.0% AI-written)
+✍️ 156 lines written by AI, 302 lines written by hand (34.06% AI-written)
 
-🔤 191,359 Input Tokens, 12,066 Output Tokens
+🔤 1,431,289 Input Tokens, 206,109 Output Tokens
 
-💵 $2.22 Estimated AI Cost This Week
+💵 $37.68 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 10 AI Prompts
+🧠 14 AI Sessions, 80 AI Prompts
 
-GPT                      1 lines             █████████████████████████   100.00 % 
+GPT                      157 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,575 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.76% of changed lines were hand-edited
+⚖️ Balanced with AI — 34.06% of written lines came from AI
+📄 Detailed Prompter — average 968 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 80.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -59,5 +66,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 19:11:41 UTC
+ Last Updated on 08/10/2026 19:11:29 UTC
 <!--END_SECTION:waka-->

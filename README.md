@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C736%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C742%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,48 +9,48 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
-Other                    4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Markdown                 2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Rust                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Julia                    12 hrs 23 mins      ██████████████░░░░░░░░░░░   54.45 % 
+Other                    4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Markdown                 3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Rust                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 57 mins      ████████████████████░░░░░   79.40 % 
-VS Code                  3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+Codex Vscode             19 hrs 1 min        █████████████████████░░░░   83.58 % 
+VS Code                  3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 
 🐱‍💻 Projects: 
-PrecompileProfiler.jl    6 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.93 % 
-julia                    3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-vpp-config               3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-otus-dev                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-otus-proto               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+PrecompileProfiler.jl    14 hrs              ███████████████░░░░░░░░░░   61.57 % 
+julia                    3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+vpp-config               3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+otus-dev                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+otus-proto               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Mac                      11 hrs 10 mins      ███████████████████░░░░░░   74.20 % 
-Linux                    3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Mac                      18 hrs 47 mins      █████████████████████░░░░   82.56 % 
+Linux                    3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 34 mins (83.52%)
+⏱ AI Coding Time: 19 hrs 41 mins (86.49%)
 
-✍️ 2,757 lines written by AI, 482 lines written by hand (85.12% AI-written)
+✍️ 3,916 lines written by AI, 535 lines written by hand (87.98% AI-written)
 
-🔤 3,499,891 Input Tokens, 564,906 Output Tokens
+🔤 4,886,111 Input Tokens, 1,043,791 Output Tokens
 
-💵 $95.86 Estimated AI Cost This Week
+💵 $213.91 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 149 AI Prompts
+🧠 30 AI Sessions, 177 AI Prompts
 
-GPT                      2,810 lines         █████████████████████████   100.00 % 
+GPT                      4,009 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.12% of written lines came from AI
-📄 Detailed Prompter — average 680 characters per prompt
+🤖 AI-Driven — 87.98% of written lines came from AI
+📄 Detailed Prompter — average 615 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 23.91% of changed lines were hand-edited
+🚀 High AI Trust — 19.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -66,5 +66,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 19:10:00 UTC
+ Last Updated on 10/10/2026 19:09:51 UTC
 <!--END_SECTION:waka-->

@@ -9,48 +9,49 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    12 hrs 23 mins      ██████████████░░░░░░░░░░░   54.45 % 
-Other                    4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Markdown                 3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Rust                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Julia                    14 hrs 4 mins       ██████████████░░░░░░░░░░░   54.54 % 
+Markdown                 4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Other                    4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Rust                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-Codex Vscode             19 hrs 1 min        █████████████████████░░░░   83.58 % 
-VS Code                  3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Codex Vscode             21 hrs 54 mins      █████████████████████░░░░   84.95 % 
+VS Code                  3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 
 🐱‍💻 Projects: 
-PrecompileProfiler.jl    14 hrs              ███████████████░░░░░░░░░░   61.57 % 
-julia                    3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-vpp-config               3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-otus-dev                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-otus-proto               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+PrecompileProfiler.jl    16 hrs 16 mins      ████████████████░░░░░░░░░   63.09 % 
+julia                    4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+vpp-config               3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+otus-dev                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+otus-proto               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-Mac                      18 hrs 47 mins      █████████████████████░░░░   82.56 % 
-Linux                    3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Mac                      21 hrs 16 mins      █████████████████████░░░░   82.50 % 
+Linux                    4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 41 mins (86.49%)
+⏱ AI Coding Time: 22 hrs 41 mins (87.97%)
 
-✍️ 3,916 lines written by AI, 535 lines written by hand (87.98% AI-written)
+✍️ 6,307 lines written by AI, 537 lines written by hand (92.15% AI-written)
 
-🔤 4,886,111 Input Tokens, 1,043,791 Output Tokens
+🔤 6,074,552 Input Tokens, 1,216,637 Output Tokens
 
-💵 $213.91 Estimated AI Cost This Week
+💵 $222.77 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 177 AI Prompts
+🧠 40 AI Sessions, 202 AI Prompts
 
-GPT                      4,009 lines         █████████████████████████   100.00 % 
+GPT                      6,509 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.98% of written lines came from AI
-📄 Detailed Prompter — average 615 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 19.43% of changed lines were hand-edited
+🤖 AI-Driven — 92.15% of written lines came from AI
+📄 Detailed Prompter — average 627 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 12.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -66,5 +67,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 19:10:13 UTC
+ Last Updated on 12/10/2026 19:10:19 UTC
 <!--END_SECTION:waka-->

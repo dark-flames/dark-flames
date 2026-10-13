@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C749%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C752%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,49 +9,49 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    14 hrs 4 mins       ██████████████░░░░░░░░░░░   54.54 % 
-Markdown                 4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Other                    4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Rust                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Julia                    19 hrs 24 mins      ███████████████░░░░░░░░░░   58.47 % 
+Other                    5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Markdown                 5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+C++                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-Codex Vscode             21 hrs 54 mins      █████████████████████░░░░   84.95 % 
-VS Code                  3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Codex Vscode             29 hrs 19 mins      ██████████████████████░░░   88.33 % 
+VS Code                  3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 
 🐱‍💻 Projects: 
-PrecompileProfiler.jl    16 hrs 16 mins      ████████████████░░░░░░░░░   63.09 % 
-julia                    4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-vpp-config               3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-otus-dev                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-otus-proto               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+PrecompileProfiler.jl    16 hrs 55 mins      █████████████░░░░░░░░░░░░   50.97 % 
+julia                    10 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   31.72 % 
+vpp-config               4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+otus-proto               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+skills                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      21 hrs 16 mins      █████████████████████░░░░   82.50 % 
-Linux                    4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Mac                      22 hrs 31 mins      █████████████████░░░░░░░░   67.87 % 
+Linux                    10 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   32.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 41 mins (87.97%)
+⏱ AI Coding Time: 30 hrs 24 mins (91.62%)
 
-✍️ 6,307 lines written by AI, 537 lines written by hand (92.15% AI-written)
+✍️ 7,230 lines written by AI, 373 lines written by hand (95.09% AI-written)
 
-🔤 6,074,552 Input Tokens, 1,216,637 Output Tokens
+🔤 7,929,114 Input Tokens, 1,589,062 Output Tokens
 
-💵 $222.77 Estimated AI Cost This Week
+💵 $286.62 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 202 AI Prompts
+🧠 46 AI Sessions, 261 AI Prompts
 
-GPT                      6,509 lines         █████████████████████████   100.00 % 
+GPT                      7,448 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.15% of written lines came from AI
-📄 Detailed Prompter — average 627 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.97% of changed lines were hand-edited
+🤖 AI-Driven — 95.09% of written lines came from AI
+📄 Detailed Prompter — average 532 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 8.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -67,5 +67,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 19:10:19 UTC
+ Last Updated on 13/10/2026 19:10:02 UTC
 <!--END_SECTION:waka-->

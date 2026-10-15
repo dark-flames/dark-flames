@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C774%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-253%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,49 +9,53 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    23 hrs 31 mins      ███████████████░░░░░░░░░░   61.08 % 
-Other                    6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Markdown                 5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-C++                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Julia                    28 hrs 41 mins      █████████████████░░░░░░░░   67.64 % 
+Other                    4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Markdown                 4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+YAML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Codex Vscode             33 hrs 23 mins      ██████████████████████░░░   86.71 % 
-VS Code                  5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Codex Vscode             32 hrs 50 mins      ███████████████████░░░░░░   77.41 % 
+VS Code                  7 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Opencode Cli             2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🐱‍💻 Projects: 
-PrecompileProfiler.jl    16 hrs 55 mins      ███████████░░░░░░░░░░░░░░   43.94 % 
-julia                    15 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.11 % 
-vpp-config               5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-otus-proto               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-skills                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+julia                    21 hrs 4 mins       ████████████░░░░░░░░░░░░░   49.70 % 
+PrecompileProfiler.jl    15 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.76 % 
+vpp-config               4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+otus-proto               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+skills                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      22 hrs 55 mins      ███████████████░░░░░░░░░░   59.53 % 
-Linux                    15 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   40.47 % 
+Linux                    21 hrs 13 mins      █████████████░░░░░░░░░░░░   50.02 % 
+Mac                      21 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 54 mins (90.63%)
+⏱ AI Coding Time: 37 hrs 44 mins (88.97%)
 
-✍️ 7,223 lines written by AI, 447 lines written by hand (94.17% AI-written)
+✍️ 7,254 lines written by AI, 478 lines written by hand (93.82% AI-written)
 
-🔤 9,092,934 Input Tokens, 1,782,873 Output Tokens
+🔤 12,595,212 Input Tokens, 2,172,805 Output Tokens
 
-💵 $343.33 Estimated AI Cost This Week
+💵 $361.62 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 296 AI Prompts
+🧠 53 AI Sessions, 350 AI Prompts
 
-GPT                      7,485 lines         █████████████████████████   100.00 % 
+GPT                      7,438 lines         ████████████████████████░   97.11 % 
+Gemini                   205 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+K                        16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.17% of written lines came from AI
-📝 Concise Prompter — average 469 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 11.55% of changed lines were hand-edited
+🤖 AI-Driven — 93.82% of written lines came from AI
+📝 Concise Prompter — average 369 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 28.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -67,5 +71,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 19:10:36 UTC
+ Last Updated on 15/10/2026 19:09:53 UTC
 <!--END_SECTION:waka-->

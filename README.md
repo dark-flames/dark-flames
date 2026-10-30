@@ -9,52 +9,54 @@
 
 ```text
 💬 Programming Languages: 
-Julia                    13 hrs 23 mins      ███████████░░░░░░░░░░░░░░   44.70 % 
-Markdown                 6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-C                        2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-YAML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Julia                    11 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   36.64 % 
+Markdown                 6 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Other                    4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+YAML                     3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Codex Vscode             16 hrs 31 mins      ██████████████░░░░░░░░░░░   55.13 % 
-VS Code                  11 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.23 % 
-Opencode Cli             1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-OpenCode                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex Vscode             17 hrs              ██████████████░░░░░░░░░░░   54.45 % 
+VS Code                  13 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
+OMP                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Opencode Cli             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+OpenCode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-julia                    13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   45.14 % 
-PerformanceTest          9 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
-vpp-config               4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-julia-vscode-1.66.2      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-otus-dev                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+julia                    11 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   36.43 % 
+PerformanceTest          5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+vpp-config               5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+glicense                 3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+julia-vscode-1.66.2      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 💻 Operating System: 
-Mac                      16 hrs 16 mins      ██████████████░░░░░░░░░░░   54.30 % 
-Linux                    13 hrs 41 mins      ███████████░░░░░░░░░░░░░░   45.70 % 
+Mac                      19 hrs 25 mins      ████████████████░░░░░░░░░   62.16 % 
+Linux                    11 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   37.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 32 mins (88.59%)
+⏱ AI Coding Time: 26 hrs 56 mins (86.22%)
 
-✍️ 2,098 lines written by AI, 229 lines written by hand (90.16% AI-written)
+✍️ 3,565 lines written by AI, 286 lines written by hand (92.57% AI-written)
 
-🔤 10,912,983 Input Tokens, 1,367,216 Output Tokens
+🔤 28,907,002 Input Tokens, 1,614,947 Output Tokens
 
-💵 $174.87 Estimated AI Cost This Week
+💵 $295.42 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 363 AI Prompts
+🧠 180 AI Sessions, 356 AI Prompts
 
-GPT                      1,911 lines         ████████████████████░░░░░   78.55 % 
-Gemini                   522 lines           █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+GPT                      3,353 lines         ███████████████████████░░   90.55 % 
+Gemini                   243 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+DeepSeek                 61 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+GLM                      46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.16% of written lines came from AI
-📄 Detailed Prompter — average 525 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 12.23% of changed lines were hand-edited
+🤖 AI-Driven — 92.57% of written lines came from AI
+📄 Detailed Prompter — average 562 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 11.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -70,5 +72,5 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 19:07:44 UTC
+ Last Updated on 30/10/2026 19:06:47 UTC
 <!--END_SECTION:waka-->
